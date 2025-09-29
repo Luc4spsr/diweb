@@ -1,0 +1,31 @@
+.box1 {
+    background-color: #87CEFA;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+.box2 {
+    background-color: #008B8B;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+.box3 {
+    background-color: #FF6347;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+.box4 {
+    background-color: #88C1D6;
+}
+.box5 {
+    background-color: #008B8B;
+}
+.box6 {
+    background-color: #FD6247;
+}
+.box7 {
+    background-color: #6A5ACD;
+    color: white;
+}
