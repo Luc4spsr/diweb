@@ -1,0 +1,27 @@
+.pizza {
+    width: 200px;
+    border-radius: 100%;
+    border: 5px solid darkorange;
+}
+
+.titulo {
+    text-align: center;
+    font-family: cursive;
+    margin: 30px;
+}
+
+.paragrafo {
+    background-color: rebeccapurple;
+    border: 2px solid black;
+    color: white;
+    margin: 30px;
+}
+
+.paragrafo2{
+    background-color: lightgray;
+    border-top: 4px dotted green;
+    border-right: 3px solid tomato;
+    border-bottom: 3px solid rebeccapurple;
+    border-left: 10px solid tomato;
+    margin: 30px;
+}
